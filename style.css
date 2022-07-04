@@ -1,0 +1,47 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.Flex {
+    display: flex;
+
+}
+
+.half {
+    width: 80%;
+    margin-bottom: 150px;
+
+
+}
+
+.half img {
+    width: 70%;
+}
+
+h1 {
+    margin-left: 450px;
+
+
+    font-size: 40px;
+}
+
+p {
+    margin-left: 450px;
+    font-size: 20px;
+}
+
+.color1 {
+    color: tomato;
+}
+
+.height {
+    margin-top: 170px;
+}
+
+.order {
+    background-image: linear-gradient(tomato, orange);
+    margin-left: 450px;
+    font-size: 25px;
+    border-radius: 15px;
+
+}
